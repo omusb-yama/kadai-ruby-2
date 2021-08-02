@@ -10,5 +10,5 @@ def fizzbuzz number
     else puts number
     end
   end
-  puts fizzbuzz number
+  fizzbuzz number
 end
